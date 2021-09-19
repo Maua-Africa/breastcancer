@@ -1,0 +1,17 @@
+1. AdaBoost Classifier = 98.24 %
+
+2. XGB Classifier= 97.84 %
+
+3. Random Forest Classifier =96.57 %
+
+4. Gradient Boosting Classifier= 95.66%
+
+5. Decision Tree Classifier= 94.78 %
+
+6. K Neighbours Classifier= 70.18 %
+
+7. SVC = 63.80 %
+
+8. Naiye Bayes= 63.30 %
+
+9. Logistic Regression = 58.82%
