@@ -1,0 +1,2 @@
+This file is to show how we can use AI to scan various Cancerous photos and compare them to normal and healthy breasts by using datasets we have in the country and huge 
+xray banks that the AI will compare from 
