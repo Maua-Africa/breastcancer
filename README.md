@@ -16,3 +16,6 @@ Redness or flaky skin in the nipple area or the breast.
 Pulling in of the nipple or pain in the nipple area.
 
 Nipple discharge other than breast milk, including blood.
+
+
+
