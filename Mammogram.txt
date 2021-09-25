@@ -1,0 +1,5 @@
+mammogram data scan where the system will learn from thousands of past taken mammograms and compare it 
+to the sample at hand. 
+So its loading a huge data set of many mammograms and healthy breasts xrays and training the model 
+
+#The AI should know if a sample of a mammogram is affected by cancer 
